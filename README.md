@@ -31,7 +31,7 @@
 - Applied filtering using MS COCO classes and used IoU & box center for tracking  
 - Delivered video output with overlaid tracking + full report
 
-### 👕 **RAB The LABLE – Fashion Retail Initiative**  
+### 👕 **Aasva The LABLE – Fashion Retail Initiative**  
 - My entrepreneurial side project: a new fashion brand launch  
 - Hands-on with branding, planning, and customer outreach
 
